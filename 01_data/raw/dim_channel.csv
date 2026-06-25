@@ -1,0 +1,4 @@
+channel_key,channel_name,is_digital
+1,In-Store,False
+2,Click & Collect,True
+3,Delivery,True

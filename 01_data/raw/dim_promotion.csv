@@ -1,0 +1,6 @@
+promotion_key,promo_name,promo_type,discount_pct
+0,No Promotion,None,0.0
+1,Price Off,Markdown,0.1
+2,Bundle Deal,Bundle,0.15
+3,Weekend Special,Seasonal,0.12
+4,Payday Sale,Seasonal,0.2
