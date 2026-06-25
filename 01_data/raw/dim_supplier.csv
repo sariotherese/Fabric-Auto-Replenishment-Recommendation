@@ -1,0 +1,16 @@
+supplier_key,supplier_name,country,lead_time_days,reliability_pct
+1,Supplier A,Vietnam,1,100.0
+2,Supplier B,Philippines,3,93.4
+3,Supplier C,China,1,93.0
+4,Supplier D,Vietnam,4,91.7
+5,Supplier E,Philippines,3,97.5
+6,Supplier F,Malaysia,3,99.5
+7,Supplier G,Vietnam,2,94.5
+8,Supplier H,Vietnam,5,91.6
+9,Supplier I,Philippines,4,91.7
+10,Supplier J,Philippines,3,97.6
+11,Supplier K,Philippines,1,98.0
+12,Supplier L,Malaysia,2,97.2
+13,Supplier M,Thailand,1,92.3
+14,Supplier N,China,1,95.9
+15,Supplier O,Philippines,3,95.5

@@ -1,0 +1,7 @@
+category_key,category_name,department,is_perishable
+1,Beverages,Food & Drink,False
+2,Snacks,Food & Drink,False
+3,Household,Non-Food,False
+4,Personal Care,Non-Food,False
+5,Ready-to-Eat,Food & Drink,True
+6,Frozen,Food & Drink,True
